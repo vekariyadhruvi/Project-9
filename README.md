@@ -1,4 +1,4 @@
-# Sales Data Analyzer (Python)
+# Sales Data Analyzer
 
 ## Overview
 Sales Data Analyzer is a menu-driven Python application that performs data analysis and visualization using Pandas, NumPy, Matplotlib, and Seaborn.
@@ -51,12 +51,6 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## Run
-
-python sales_analyzer.py
-
----
-
 ## Menu
 
 1. Load Dataset
@@ -83,4 +77,4 @@ python sales_analyzer.py
 ---
 
 ## Author
-Python Data Analysis Project
+Dhruvi Vekariya
